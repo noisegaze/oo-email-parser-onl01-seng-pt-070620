@@ -13,7 +13,8 @@ class EmailAddressParser
   end  
   
   def parse
-    emails.map
+    emails.map do |addresses|
+      
     
   end
   
